@@ -45,6 +45,7 @@ var checkerProgressFields = []string{
 	"observingMemos",
 	"queryRoot",
 	"querySave",
+	"readIncompleteFloor",
 	"recordingFromCheck",
 	"reliabilityFlags",
 	"request",
