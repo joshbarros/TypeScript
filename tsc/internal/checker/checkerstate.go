@@ -38,6 +38,8 @@ var checkerProgressFields = []string{
 	"inferenceContextInfos",
 	"inlineLevel",
 	"innerCycles",
+	"instantiationAbortLog",
+	"instantiationAborted",
 	"instantiationStack",
 	"markingForEmit",
 	"memoTop",
